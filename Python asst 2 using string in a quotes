@@ -1,0 +1,7 @@
+>>> s2 = 'One\nTwo\nThree'
+>>> s2
+'One\nTwo\nThree'
+>>> print(s2)
+One
+Two
+Three
